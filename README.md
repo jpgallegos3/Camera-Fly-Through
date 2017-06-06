@@ -14,4 +14,4 @@ Computer Graphics – UC Merced
 
 •	Organized and collaborated with a fellow student developer to create an easy to use program. 
 
-![Alt text](.jpg?raw=true "Optional Title")
+![Alt text](proj2_gallegos.png?raw=true "Optional Title")
