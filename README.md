@@ -1,4 +1,4 @@
-# Camera-Fly-Through
+# Camera-Fly-Through (C++)
 Goal: visualize a large environment with smooth camera motions along trajectories inside a self-made environment.
 
 
